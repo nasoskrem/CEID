@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RobVehicle
+comment1.params=name\ manufacturer\ days_of_usage\ costs\ miles\ condition
+comment1.target=RobVehicle(java.lang.String,\ java.lang.String,\ int,\ float,\ int,\ int)
+comment2.params=
+comment2.target=int\ getMiles()
+comment3.params=
+comment3.target=void\ printinfo()
+comment4.params=online
+comment4.target=void\ setOnline(boolean)
+comment5.params=rob
+comment5.target=void\ setDays_of_usage(RobVehicle)
+numComments=6

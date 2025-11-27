@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1748251002 source:g:\my drive\oop\cpp\askisi1\q1.cpp
+	<iostream>
+
+1748254385 source:g:\my drive\oop\cpp\askisi1\kouti.cpp
+	<iostream>
+	"kouti.h"
+
+1748254459 g:\my drive\oop\cpp\askisi1\kouti.h
+
